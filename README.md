@@ -1,2 +1,2 @@
 # Face-Reco
-I developed the webiste using Python.
+I developed this project using Python.
